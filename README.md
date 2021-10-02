@@ -54,7 +54,8 @@ This is the frontpage:
 
 
 By inputting a word, you can check its category:
-![Alt text](https://github.com/samar-sarhan/Disaster-Response-Pipelines/blob/main/screen3.jpg?raw=true "Screenshot2")
+![screen3](https://user-images.githubusercontent.com/91026154/135733048-d7091d14-278a-4a1e-b0f0-6cacc5791c0e.jpg)
+
 
 ## About
 This project was prepared as part of the Udacity Data Scientist nanodegree programme. The data was provided by Figure Eight.
