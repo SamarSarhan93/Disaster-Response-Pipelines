@@ -48,7 +48,8 @@ This project is to classify disaster response messages through machine learning 
 ## Screenshots
 This is the frontpage:
 ![screen1](https://user-images.githubusercontent.com/91026154/135733020-090338bc-205b-4266-b068-ab8d5b1cb417.jpg)
-![Alt text](https://github.com/samar-sarhan/Disaster-Response-Pipelines/blob/main/screen2.jpg?raw=true "Screenshot1")
+![screen2](https://user-images.githubusercontent.com/91026154/135733038-a76544e2-aa87-4ad8-baaf-9f65d54b129d.jpg)
+
 
 
 
